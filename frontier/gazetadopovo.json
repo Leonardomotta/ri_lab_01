@@ -1,1 +1,11 @@
-{"gazetadopovo": "https://www.gazetadopovo.com.br/"}
+{"gazetadopovo": "https://www.gazetadopovo.com.br/ultimas-noticias",
+"gazetadopovo1" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=1",
+"gazetadopovo2" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=2",
+"gazetadopovo3" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=3",
+"gazetadopovo4" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=4",
+"gazetadopovo5" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=5",
+"gazetadopovo6" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=6",
+"gazetadopovo7" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=7",
+"gazetadopovo8" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=8",
+"gazetadopovo9" : "https://www.gazetadopovo.com.br/ultimas-noticias/?offset=9"
+}
